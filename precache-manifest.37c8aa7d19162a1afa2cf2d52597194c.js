@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b62854205b05b43b43f3f840af2e28b1",
+    "revision": "1e79fbb0bef791e860e27f5539c4cf0b",
     "url": "/cryptohunter/index.html"
   },
   {
-    "revision": "fa7e8bdb0ffc1523454b",
+    "revision": "5887abe1b96c5c5603f3",
     "url": "/cryptohunter/static/css/main.39779910.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cryptohunter/static/js/2.ff98d451.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa7e8bdb0ffc1523454b",
-    "url": "/cryptohunter/static/js/main.854dd0e2.chunk.js"
+    "revision": "5887abe1b96c5c5603f3",
+    "url": "/cryptohunter/static/js/main.21ae2fd8.chunk.js"
   },
   {
     "revision": "d2fe4b549936abd7f5e0",

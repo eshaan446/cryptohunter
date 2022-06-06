@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cryptohunter/static/css/main.39779910.chunk.css",
-    "main.js": "/cryptohunter/static/js/main.854dd0e2.chunk.js",
-    "main.js.map": "/cryptohunter/static/js/main.854dd0e2.chunk.js.map",
+    "main.js": "/cryptohunter/static/js/main.21ae2fd8.chunk.js",
+    "main.js.map": "/cryptohunter/static/js/main.21ae2fd8.chunk.js.map",
     "runtime-main.js": "/cryptohunter/static/js/runtime-main.63e9621c.js",
     "runtime-main.js.map": "/cryptohunter/static/js/runtime-main.63e9621c.js.map",
     "static/js/2.ff98d451.chunk.js": "/cryptohunter/static/js/2.ff98d451.chunk.js",
     "static/js/2.ff98d451.chunk.js.map": "/cryptohunter/static/js/2.ff98d451.chunk.js.map",
     "index.html": "/cryptohunter/index.html",
-    "precache-manifest.24f7c16994059375399ff04aab77a1e8.js": "/cryptohunter/precache-manifest.24f7c16994059375399ff04aab77a1e8.js",
+    "precache-manifest.37c8aa7d19162a1afa2cf2d52597194c.js": "/cryptohunter/precache-manifest.37c8aa7d19162a1afa2cf2d52597194c.js",
     "service-worker.js": "/cryptohunter/service-worker.js",
     "static/css/main.39779910.chunk.css.map": "/cryptohunter/static/css/main.39779910.chunk.css.map",
     "static/js/2.ff98d451.chunk.js.LICENSE.txt": "/cryptohunter/static/js/2.ff98d451.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.63e9621c.js",
     "static/js/2.ff98d451.chunk.js",
     "static/css/main.39779910.chunk.css",
-    "static/js/main.854dd0e2.chunk.js"
+    "static/js/main.21ae2fd8.chunk.js"
   ]
 }
